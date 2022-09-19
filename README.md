@@ -1,6 +1,3 @@
-# End Result
-Click here: https://base-apparel-coming-soon-page-five-zeta.vercel.app/
-
 # Frontend Mentor - Base Apparel coming soon page
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
